@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Reed Whitmer Website
+
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
