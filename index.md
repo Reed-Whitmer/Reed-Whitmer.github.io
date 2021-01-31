@@ -10,17 +10,15 @@ description: This is the landing page for my GitHub
 
 
 
-This is the content that I've developed for my courses:
-
-
-
-
-
+This is the content that I've developed for my CTBA course:
 
 - [Data Visualization](/DataVisualization/index.md)
+
 - [Time Series Decomposition](/TimeSeriesDecomposition/index.md)
 
 
-This is Some content that I am currently working on:
+This is some content that I am currently working on:
 
--[Other Files](https://github.com/Reed-Whitmer/OtherFiles)
+- [Other Files](https://github.com/Reed-Whitmer/OtherFiles)
+
+
