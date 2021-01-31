@@ -3,7 +3,7 @@ title: Reed Whitmer Website
 description: This is the landing page for my GitHub
 ---
 
-![My Picture](/pics/ReedWhitmerLinkedIn.png)
+![My Picture](/pics/ReedWhitmerLinkedin.png)
 
 
 
